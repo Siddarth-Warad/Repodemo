@@ -1,2 +1,1 @@
-# Repodemo
-Creating repository for demonstration
+Making changes in README.md file
